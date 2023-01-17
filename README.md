@@ -1,7 +1,9 @@
 # water-tank-problem
 
 Find all the combinations of unit possible by ensuring the total construction time is LESS than the Time Unit given. 
+
 The approach to find the combinations is as below:
+
 a) Take a single type of unit (Possible Types: Theatre, Pub, Commercial park) and make other unit types as zero.
 b) Take two unit types together and exhaust/permute across all the possible combinations with the third unit type as zero.
 c) Finally Permute across all the three unit types. 
