@@ -12,7 +12,7 @@ c) Finally Permute across all the three unit types.
 
 d) Once all the combinations are available, calculate the total earnings by using the below formula: 
 
-[(Time unit - construction end time) * number of units * rent for each T establishment] +  [(End Time - construction time) * number of units * rent for each P establishment] +  [(End Time - construction time) * number of units * rent for each C establishment]=  total earnings
+[(Time unit - construction end time) * number of units * rent for each Theatre establishment] +  [(End Time - construction time) * number of units * rent for each Pub establishment] +  [(End Time - construction time) * number of units * rent for each Commercial park establishment]=  total earnings
 
 e) Sort the results from the above caluclations and select combination giving out the maximum earning value. 
 
