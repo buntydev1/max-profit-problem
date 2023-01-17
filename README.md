@@ -16,9 +16,13 @@ d) Once all the combinations are available, calculate the total earnings by usin
 
 e) Sort the results from the above caluclations and select combination giving out the maximum earning value. 
 
-for example take 24 units 
+for example take 24 units:
+
 	c0t0p5,c0t4p0,c2t0p0 - permuting on single type of unit
+	
 	c0t1p4,c0t2p3,c0t3p2,c1t2p0,c1t0p0 - permuting on two unit
+	
 	c1t1p2                             - permuting on three unit
+
 
 now using all combinations , calculate total using formula mentioned in d
